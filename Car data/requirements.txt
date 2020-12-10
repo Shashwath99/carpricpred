@@ -58,10 +58,6 @@ pyrsistent
 python-dateutil==2.8.1
 pytz 
 PyWavelets 
-pywin32==227
-pywinpty==0.5.7
-PyYAML==5.3.1
-pyzmq==20.0.0
 qtconsole 
 QtPy==1.9.0
 scikit-image==0.17.2
