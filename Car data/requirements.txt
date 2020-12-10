@@ -1,15 +1,16 @@
-argon2-cffi @ file:///C:/ci/argon2-cffi_1596828549974/work
+
+argon2-cffi 
 async-generator==1.10
-attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+attrs 
 backcall==0.2.0
-bleach @ file:///tmp/build/80754af9/bleach_1600439572647/work
+bleach 
 certifi==2020.12.5
-cffi @ file:///C:/ci/cffi_1606255207413/work
-cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
-colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
+cffi 
+cloudpickle 
+colorama 
 cycler==0.10.0
 cytoolz==0.11.0
-dask @ file:///tmp/build/80754af9/dask-core_1602083700509/work
+dask 
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
@@ -51,37 +52,37 @@ pandocfilters @ file:///C:/ci/pandocfilters_1605102427207/work
 parso==0.7.0
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow @ file:///C:/ci/pillow_1603821929285/work
-prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1606344362066/work
-prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
-Pygments @ file:///tmp/build/80754af9/pygments_1607368905949/work
+prometheus-client 
+prompt-toolkit 
+pycparser 
+Pygments 
 pyparsing==2.4.7
-pyrsistent @ file:///C:/ci/pyrsistent_1600123688363/work
+pyrsistent 
 python-dateutil==2.8.1
-pytz @ file:///tmp/build/80754af9/pytz_1606604771399/work
-PyWavelets @ file:///C:/ci/pywavelets_1601658407053/work
+pytz 
+PyWavelets 
 pywin32==227
 pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==20.0.0
-qtconsole @ file:///tmp/build/80754af9/qtconsole_1600870028330/work
+qtconsole 
 QtPy==1.9.0
 scikit-image==0.17.2
-scikit-learn @ file:///C:/ci/scikit-learn_1598376983131/work
+scikit-learn 
 scikit-rf==0.15.4
-scipy @ file:///C:/ci/scipy_1597686737426/work
-seaborn @ file:///tmp/build/80754af9/seaborn_1600553570093/work
-Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
-six @ file:///C:/ci/six_1605205426665/work
+scipy 
+seaborn 
+Send2Trash 
+six 
 terminado==0.9.1
 testpath==0.4.4
-threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
-tifffile @ file:///tmp/build/80754af9/tifffile_1607369857969/work
-toolz @ file:///tmp/build/80754af9/toolz_1601054250827/work
-tornado @ file:///C:/ci/tornado_1606935947090/work
-traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+threadpoolctl 
+tifffile 
+toolz 
+tornado 
+traitlets
+wcwidth 
 webencodings==0.5.1
 widgetsnbextension==3.5.1
 wincertstore==0.2
-zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
+zipp 
